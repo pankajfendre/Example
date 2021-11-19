@@ -1,0 +1,5 @@
+#JUNAGARH PRODCUTION
+#db.driverClassName=oracle.jdbc.driver.OracleDriver
+db.url=jdbc:oracle:thin:@10.42.2.14:1521:q012band
+db.username=GJJUNBSAS_PROD
+db.password=GJJUNBSAS_1234
